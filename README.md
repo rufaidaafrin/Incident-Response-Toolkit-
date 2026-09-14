@@ -62,3 +62,10 @@ After making changes, push everything to GitHub using:
 git add .
 git commit -m "Updated README and added requirements.txt"
 git push origin main
+## What I Learned
+
+- The core incident response workflow: detect, collect evidence, analyze
+- Automating system log collection for forensic review
+- Basics of memory dump/forensic analysis with Python
+- Structuring a multi-script toolkit with a shared requirements file and consistent CLI usage
+- Using .gitignore, LICENSE, and README conventions for a professional-looking repo
